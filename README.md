@@ -41,10 +41,6 @@ Yanbo Bian · First author and co-corresponding author
 **Sensors 2026, 26(16), 5065 — Published** · [Paper](https://doi.org/10.3390/s26165065)  
 Low-cost screening and on-demand sensor confirmation for resource-aware edge fault warning.
 
-**Low-Cost Multi-Sensor Edge Intelligent Fault Diagnosis: A Framework Based on Lightweight Mamba and Cross-Modal Gating for Campus Electromechanical Equipment Health Monitoring**  
-Yanbo Bian · First author  
-**EIT 2026 — Accepted**  
-Lightweight multimodal fault diagnosis, connected to an ESP32 acquisition and telemetry prototype.
 
 ## Selected research
 
