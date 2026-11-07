@@ -6,7 +6,6 @@
   <a href="#publications">Publications</a> &nbsp;·&nbsp;
   <a href="#selected-research">Research &amp; Code</a> &nbsp;·&nbsp;
   <a href="#engineering">Engineering</a> &nbsp;·&nbsp;
-  <a href="mailto:24722081@bjtu.edu.cn">Contact</a>
 </p>
 
 <img align="right" src="./assets/portrait.jpeg" width="140" alt="Portrait of Yanbo Bian" />
