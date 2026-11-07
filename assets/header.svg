@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Yanbo Bian — Reliable and Efficient Machine Learning</title>
+  <desc id="desc">Academic profile of Yanbo Bian, an undergraduate at Beijing Jiaotong University. Navy and teal design with an abstract forecast and calibration motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d2038"/><stop offset="1" stop-color="#10384a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#54e1c8"/><stop offset="1" stop-color="#82c8ff"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#c9f0f5" stroke-opacity=".055"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1200" height="300" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <circle cx="1110" cy="-5" r="210" fill="#52cbbf" opacity=".055"/>
+    <circle cx="1045" cy="255" r="200" fill="#56b4fb" opacity=".035"/>
+    <rect x="48" y="43" width="40" height="4" rx="2" fill="url(#accent)"/>
+    <text x="48" y="82" fill="#8edbcf" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">RELIABLE &amp; EFFICIENT MACHINE LEARNING</text>
+    <text x="45" y="158" fill="#f4f9fc" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" letter-spacing="-1.7">Yanbo Bian</text>
+    <text x="48" y="202" fill="#c6d8e5" font-family="Arial, Helvetica, sans-serif" font-size="21">Undergraduate Researcher</text>
+    <text x="48" y="237" fill="#8fabbf" font-family="Arial, Helvetica, sans-serif" font-size="17">Beijing Jiaotong University · Weihai International College</text>
+    <g transform="translate(827 56)">
+      <path d="M0 174H313M0 115H313M0 56H313" stroke="#9cd6de" stroke-opacity=".14" stroke-dasharray="3 7"/>
+      <path d="M5 157 48 141 83 155 128 96 167 116 209 58 253 77 300 28L300 86 253 121 209 107 167 162 128 143 83 196 48 181 5 201Z" fill="#57d5bc" opacity=".10"/>
+      <path d="M5 180 48 161 83 176 128 119 167 140 209 83 253 99 300 55" fill="none" stroke="url(#accent)" stroke-width="3.3" stroke-linejoin="round" stroke-linecap="round"/>
+      <g fill="#6fe1cc" stroke="#103143" stroke-width="3">
+        <circle cx="5" cy="180" r="5"/><circle cx="48" cy="161" r="5"/><circle cx="83" cy="176" r="5"/><circle cx="128" cy="119" r="5"/><circle cx="167" cy="140" r="5"/><circle cx="209" cy="83" r="5"/><circle cx="253" cy="99" r="5"/><circle cx="300" cy="55" r="6"/>
+      </g>
+      <text x="0" y="220" fill="#93bdc8" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">LEARN · CALIBRATE · VERIFY</text>
+    </g>
+    <rect x="0" y="295" width="1200" height="5" fill="url(#accent)"/>
+  </g>
+</svg>
