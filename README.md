@@ -13,11 +13,9 @@
 
 ### About me
 
-I'm **Yanbo Bian (卞彦博)**, a third-year Computer Science and Technology undergraduate at **Beijing Jiaotong University**My research connects **reliable and efficient inference**, **multimodal learning**, and **resource-aware edge intelligence**. I develop methods, evaluate them under explicit protocols, and release code and experimental evidence so others can inspect and build on the work.
+I'm **Yanbo Bian (卞彦博)**, a third-year Computer Science and Technology undergraduate at **Beijing Jiaotong University**.<br>My research connects **reliable and efficient inference**, **multimodal learning**, and **resource-aware edge intelligence**. I develop methods, evaluate them under explicit protocols, and release code and experimental evidence so others can inspect and build on the work.
 
-**Education:** 2024–2028 (expected) &nbsp;·&nbsp; **Academic rank:** 13/125 &nbsp;·&nbsp; English-medium programme
-
-**Email:** [24722081@bjtu.edu.cn](mailto:24722081@bjtu.edu.cn)
+**Education:** 2024–2028 (expected) &nbsp;
 
 <br clear="all" />
 
@@ -100,7 +98,7 @@ Also: **[ConformityGate](https://github.com/bianyanbo44-afk/conformitygate-measu
 ## Engineering
 
 - **Edge fault-warning system:** lead a Beijing municipal undergraduate innovation project; work across sensing policies, multimodal models, experiments and an **ESP32** acquisition/telemetry prototype.
-- **Autonomous smart car:** develop camera-based line tracking, encoder/IMU processing, motor control and route decisions with **TC264 and C/C++**; received a **second prize in the Shandong regional competition** of the National University Students Smart Car Competition.
+- **Autonomous smart car:** develop camera-based line tracking, encoder/IMU processing, motor control and route decisions with **TC264 and C/C++**.
 - **Wastewater-discharge review platform:** core developer on a completed provincial undergraduate innovation project, combining **Spring Boot, Vue 3 and Neo4j** with an LLM and a domain knowledge base; implemented more than 50 REST endpoints.
 
 **Tools I use:** Python · PyTorch · scikit-learn · C/C++ · Java · Git · Linux · LaTeX  
