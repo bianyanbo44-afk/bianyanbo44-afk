@@ -13,9 +13,7 @@
 
 ### About me
 
-I'm **Yanbo Bian (卞彦博)**, a third-year Computer Science and Technology undergraduate at **Beijing Jiaotong University**, Weihai International College, working with **Prof. Zhihai Wang**.
-
-My research connects **reliable and efficient inference**, **multimodal learning**, and **resource-aware edge intelligence**. I develop methods, evaluate them under explicit protocols, and release code and experimental evidence so others can inspect and build on the work.
+I'm **Yanbo Bian (卞彦博)**, a third-year Computer Science and Technology undergraduate at **Beijing Jiaotong University**My research connects **reliable and efficient inference**, **multimodal learning**, and **resource-aware edge intelligence**. I develop methods, evaluate them under explicit protocols, and release code and experimental evidence so others can inspect and build on the work.
 
 **Education:** 2024–2028 (expected) &nbsp;·&nbsp; **Academic rank:** 13/125 &nbsp;·&nbsp; English-medium programme
 
